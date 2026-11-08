@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/SQLMAP-SQLMAP-000000?style=flat-square">
   <img src="https://img.shields.io/badge/FFUF-FFUF-000000?style=flat-square">
   <img src="https://img.shields.io/badge/WIRESHARK-Wireshark-000000?style=flat-square&logo=wireshark&logoColor=0099cc">
+  <img src="https://img.shields.io/badge/ImHex-ImHex-000000?style=flat-square">
 </p>
 
 <br>
@@ -62,6 +63,36 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ProcessMonitor-ProcessMonitor-000000?style=flat-square&logo=microsoft&logoColor=00a4ef">
   <img src="https://img.shields.io/badge/ProcessExplorer-ProcessExplorer-000000?style=flat-square&logo=microsoft&logoColor=00a4ef">
+  <img src="https://img.shields.io/badge/NSudo-NSudo-000000?style=flat-square">
+</p>
+
+<br>
+
+<h2 align="center">AI Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-Ollama-000000?style=flat-square&logo=ollama&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Cherry%20Studio-Cherry%20Studio-000000?style=flat-square">
+</p>
+
+<br>
+
+<h2 align="center">Media & Capture</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/OBS%20Studio-OBS%20Studio-000000?style=flat-square&logo=obsstudio&logoColor=ffffff">
+</p>
+
+<br>
+
+<h2 align="center">Game Engine</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity%20Hub-Unity%20Hub-000000?style=flat-square&logo=unity&logoColor=ffffff">
+</p>
+
+<br>
+
+<h2 align="center">Virtualization</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/VMware%20Workstation%20Pro-VMware-000000?style=flat-square&logo=vmware&logoColor=607078">
 </p>
 
 <br>
