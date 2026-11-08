@@ -1,4 +1,6 @@
-<h1 align="center">Breaking</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Breaking;" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ChencyWang&label=PROFILE%20VIEWS&color=green&style=flat-square" alt="profile views">
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/badge/STATE-CODE%20%2B%20DEBUG-000000?style=flat-square&logo=visualstudiocode&logoColor=cyan">
   <img src="https://img.shields.io/badge/SECONDARY-Binary%20Reversing%20%26%20Web%20Pentest-000000?style=flat-square&logo=wireshark&logoColor=blue"><br>
   <img src="https://img.shields.io/badge/MOTTO-Keep%20Coding%20%26%20Keep%20Exploring-000000?style=flat-square&logo=target&logoColor=purple">
-  <img src="https://img.shields.io/badge/HOBBY-Write%20Programs%20%26%20Security%20Practice-000000?style=flat-square&logo=bugcrowd&logoColor=white">
+  <img src="https://img.shields.io/badge/HOBBY-Writing%20Programs%20%26%20Security%20Practice-000000?style=flat-square&logo=bugcrowd&logoColor=white">
 </p>
 
 <br>
@@ -52,6 +54,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VISUAL%20STUDIO-Visual%20Studio-000000?style=flat-square&logo=visualstudio&logoColor=5c2d91">
   <img src="https://img.shields.io/badge/VS%20CODE-VS%20CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=007acc">
-  <img src="https://img.shields.io/badge/IDEA-IDEA-000000?style=flat-square&logo=intellijidea&logoColor=000000">
+  <img src="https://img.shields.io/badge/IDEA-IDEA-222222?style=flat-square&logo=intellijidea&logoColor=ffffff">
   <img src="https://img.shields.io/badge/PYCHARM-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=2196f3">
 </p>
