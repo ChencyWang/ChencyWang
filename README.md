@@ -85,6 +85,3 @@
 
 <br>
 
-<p align="center">
-  <span style="color:#39ff14">// Keep reversing, keep exploring</span>
-</p>
