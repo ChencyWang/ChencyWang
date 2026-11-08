@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/STATE-CODE%20%2B%20DEBUG-000000?style=flat-square&logo=visualstudiocode&logoColor=cyan">
   <img src="https://img.shields.io/badge/SECONDARY-Binary%20Reversing%20%26%20Web%20Pentest-000000?style=flat-square&logo=wireshark&logoColor=blue"><br>
   <img src="https://img.shields.io/badge/MOTTO-Keep%20Coding%20%26%20Keep%20Exploring-000000?style=flat-square&logo=target&logoColor=purple">
-  <img src="https://img.shields.io/badge/HOBBY-Write%20Small%20Programs%20%26%20Security%20Practice-000000?style=flat-square&logo=bugcrowd&logoColor=white">
+  <img src="https://img.shields.io/badge/HOBBY-Write%20Programs%20%26%20Security%20Practice-000000?style=flat-square&logo=bugcrowd&logoColor=white">
 </p>
 
 <br>
