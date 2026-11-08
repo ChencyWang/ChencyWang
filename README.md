@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=39FF14&background=transparent&center=true&vCenter=true&width=850&lines=Breaking;Keep+Coding;Security+Research;Everything+that+kills+me+makes+me+feel+alive!" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=860&lines=Breaking;Keep+Coding;Security+Research;Everything+that+kills+me+makes+me+feel+alive!" alt="Typing SVG">
 </p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ChencyWang&label=PROFILE%20VIEWS&color=green&style=flat-square" alt="profile views">
