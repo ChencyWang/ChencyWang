@@ -51,10 +51,25 @@
 
 <br>
 
+<h2 align="center">Network Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/BurpSuite-BurpSuite-000000?style=flat-square&logo=burpsuite&logoColor=ff6633">
+</p>
+
+<br>
+
+<h2 align="center">Sysinternals Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/ProcessMonitor-ProcessMonitor-000000?style=flat-square&logo=microsoft&logoColor=00a4ef">
+  <img src="https://img.shields.io/badge/ProcessExplorer-ProcessExplorer-000000?style=flat-square&logo=microsoft&logoColor=00a4ef">
+</p>
+
+<br>
+
 <h2 align="center">Code Editors & IDE</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/VISUAL%20STUDIO-Visual%20Studio-000000?style=flat-square&logo=visualstudio&logoColor=5c2d91">
   <img src="https://img.shields.io/badge/VS%20CODE-VS%20CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=007acc">
-  <img src="https://img.shields.io/badge/IDEA-IDEA-222222?style=flat-square&logo=intellijidea&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/IDEA-IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ffffff">
   <img src="https://img.shields.io/badge/PYCHARM-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=2196f3">
 </p>
