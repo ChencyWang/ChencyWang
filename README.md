@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-DEVELOPER%20%26%20SECURITY%20ENTHUSIAST-000000?style=flat-square&logo=github&logoColor=green">
   <img src="https://img.shields.io/badge/FOCUS-Java%20%2F%20C%2B%2B%20Programming%20%26%20Security%20Research-000000?style=flat-square&logo=codeforces&logoColor=cyan">
-  <img src="https://img.shields.io/badge/SCOPE-Small%20Program%20Dev%20%26%20Binary%20%2F%20Web%20Security-000000?style=flat-square&logo=hackthebox&logoColor=purple">
+  <img src="https://img.shields.io/badge/SCOPE-%20Program%20Dev%20%26%20Binary%20%2F%20Web%20Security-000000?style=flat-square&logo=hackthebox&logoColor=purple">
 </p>
 
 <br>
