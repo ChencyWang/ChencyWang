@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=39FF14&background=transparent&center=true&vCenter=true&width=560&lines=Breaking;Keep+Coding;Security+Research;Everything+that+kills+me+makes+me+feel+alive!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=39FF14&background=transparent&center=true&vCenter=true&width=850&lines=Breaking;Keep+Coding;Security+Research;Everything+that+kills+me+makes+me+feel+alive!" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-DEVELOPER%20%26%20SECURITY%20ENTHUSIAST-000000?style=flat-square&logo=github&logoColor=green">
   <img src="https://img.shields.io/badge/FOCUS-Java%20%2F%20C%2B%2B%20Programming%20%26%20Security%20Research-000000?style=flat-square&logo=codeforces&logoColor=cyan">
-  <img src="https://img.shields.io/badge/SCOPE-Program+Dev+%26+Binary+%2F+Web+Security-000000?style=flat-square&logo=hackthebox&logoColor=purple">
+  <img src="https://img.shields.io/badge/SCOPE-Program%20Dev%20%26%20Binary%20%2F%20Web%20Security-000000?style=flat-square&logo=hackthebox&logoColor=purple">
 </p>
 
 <br>
@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/PRIMARY-Java%20%26%20C%2B%2B%20Development-000000?style=flat-square&logo=java&logoColor=orange"><br>
   <img src="https://img.shields.io/badge/STATE-CODE%20%2B%20DEBUG-000000?style=flat-square&logo=visualstudiocode&logoColor=cyan">
   <img src="https://img.shields.io/badge/SECONDARY-Binary%20Reversing%20%26%20Web%20Pentest-000000?style=flat-square&logo=wireshark&logoColor=blue"><br>
-  <img src="https://img.shields.io/badge/MOTTO-Keep+Coding+%26+Keep+Exploring-000000?style=flat-square&logo=github&logoColor=purple">
-  <img src="https://img.shields.io/badge/HOBBY-Writing+Programs+%26+Security+Practice-000000?style=flat-square&logo=bugcrowd&logoColor=white">
+  <img src="https://img.shields.io/badge/MOTTO-Keep%20Coding%20%26%20Keep%20Exploring-000000?style=flat-square&logo=github&logoColor=purple">
+  <img src="https://img.shields.io/badge/HOBBY-Writing%20Programs%20%26%20Security%20Practice-000000?style=flat-square&logo=bugcrowd&logoColor=white">
 </p>
 
 <br>
@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB-ChencyWang-000000?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/BILIBILI-Bilibili-000000?style=flat-square&logo=bilibili&logoColor=fb7299">
-  <img src="https://img.shields.io/badge/EPIC-Epic+Games-000000?style=flat-square&logo=epicgames&logoColor=white">
+  <img src="https://img.shields.io/badge/EPIC-Epic%20Games-000000?style=flat-square&logo=epicgames&logoColor=white">
   <img src="https://img.shields.io/badge/STEAM-Steam-000000?style=flat-square&logo=steam&logoColor=1b2838">
   <img src="https://img.shields.io/badge/GITCODE-GitCode-000000?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GITEE-Gitee-000000?style=flat-square&logo=gitee&logoColor=c71d23">
@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/X64DBG-X64DBG-000000?style=flat-square">
   <img src="https://img.shields.io/badge/IDA-FREE-000000?style=flat-square">
-  <img src="https://img.shields.io/badge/BINARY+NINJA-Binary+Ninja-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/BINARY%20NINJA-Binary%20Ninja-000000?style=flat-square">
   <img src="https://img.shields.io/badge/SQLMAP-SQLMAP-000000?style=flat-square">
   <img src="https://img.shields.io/badge/FFUF-FFUF-000000?style=flat-square">
   <img src="https://img.shields.io/badge/WIRESHARK-Wireshark-000000?style=flat-square&logo=wireshark&logoColor=0099cc">
@@ -52,8 +52,8 @@
 
 <h2 align="center">Code Editors & IDE</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/VISUAL+STUDIO-Visual+Studio-000000?style=flat-square&logo=visualstudio&logoColor=5c2d91">
-  <img src="https://img.shields.io/badge/VS+CODE-VS+CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=007acc">
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-Visual%20Studio-000000?style=flat-square&logo=visualstudio&logoColor=5c2d91">
+  <img src="https://img.shields.io/badge/VS%20CODE-VS%20CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=007acc">
   <img src="https://img.shields.io/badge/IDEA-IDEA-222222?style=flat-square&logo=intellijidea&logoColor=ffffff">
   <img src="https://img.shields.io/badge/PYCHARM-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=2196f3">
 </p>
